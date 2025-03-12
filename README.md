@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to go from manually writing all my code to making it digital
 - 💞️ I’m looking to collaborate with people who will versus me in chess for money
 - 📫 How to reach me? Check out my linkedin its the non professional verision control of my life! https://www.linkedin.com/in/daniel-tomaro-32617419a/
-- 😄 Journal writer
+- 😄 Undefeated NBA MVP, NBA Draft and NBA2k12-15 knowledge from grinding mycareer. Can name 90% of players stat lines within 1-3 stats depending on category. 
 - ⚡ Bear Grylls fan
 
 <!---
