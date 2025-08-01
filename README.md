@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Daniel Tomaro
-- 👀 I’m interested in the deeper workings of what dogs have to worry about when they sleep
-- 🌱 I’m currently learning how to go from manually writing all my code to making it digital
-- 💞️ I’m looking to collaborate with people who will versus me in chess for money
-- 📫 How to reach me? Check out my linkedin  https://www.linkedin.com/in/daniel-tomaro-32617419a/
-- 😄 Undefeated NBA MVP, NBA Draft and NBA2k12-15 knowledge from grinding mycareer. 
+- Daniel Tomaro
+- Migrating manually written code into the digital sphere
+- VS me in chess for $$$
+- Check out my linkedin  https://www.linkedin.com/in/daniel-tomaro-32617419a/
+- Undefeated NBA MVP, NBA Draft and NBA2k12-15 knowledge from grinding mycareer.
+- Got WORDLE in one go on 13/06/2023
+
 
 <!---
 DanielTomaro13/DanielTomaro13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
